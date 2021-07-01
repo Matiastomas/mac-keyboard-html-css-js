@@ -3,7 +3,7 @@
 ## **About Macbook keyboard with html/css/js**
 
 This codebase is the result of a "challenge" proposed to me by my web dev friend Eleandro Duzentos on linkedin. Eleandro Duzentos created
-a "macbook keyboard" using flutter, and suggested me to do a web version of what he did.
+a macbook keyboard using flutter, and suggested me to do a web version of what he did.
 
 ## **The following image is a screenshot of the mac keyboard created by Eleandro using flutter 
 
