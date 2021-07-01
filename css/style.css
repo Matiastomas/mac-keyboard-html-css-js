@@ -1,0 +1,233 @@
+body{
+    width:100;
+  margin: 30px 30px;
+}
+.main-section{
+    border-radius: 15px;
+    border: 1px solid silver;
+    height: 500px;
+    width:780px;
+    background-color:#f9f9f9;
+    padding-top:25px;
+    padding-bottom:10px;
+    padding-left:15px;
+    margin: 0 auto;
+
+    
+}
+.grid-for-keys{
+   
+    border-radius: 10px;
+    border:4px solid #d8d8d8;
+    height: 290px;
+    width:640px;
+    background-color:#f9f9f9;
+    margin:10 auto 0;
+    padding: 10px;
+    box-shadow:2px 2px 1px #d8d8d8;
+}
+.keyboard-pad{
+    border-radius: 15px;
+    border: 3px solid silver;
+    height: 170px;
+    width:33%;
+    background-color:#f9f9f9;
+    margin: 200px auto 0;
+  
+}
+.row-1 {
+    width:900px;
+    height:30px;
+    margin-top:-7px;
+    margin-left:px;
+    padding-top:6px;   
+}
+.row-2{
+    width:100%;
+    height:30px;
+    margin-top:-8px;
+    margin-left:-12px;
+    padding:10px;
+    
+
+ 
+}
+
+.row2-cols-button{
+     padding: 3px 15px;
+    
+}
+.delete-button{
+    padding:19px 0 0 18px;
+    text-align: right;
+    margin-top: px;
+    position: absolute;
+    margin-left:3px;
+    
+}
+
+.row-3{
+    width:100%;
+    margin-top:-3px;
+    margin-left:-12px;
+    height: 40px;
+    position: relative;
+}
+
+
+.row-3-column1{
+    width:4%;
+    position: absolute;
+    top: 4px;
+    left: 8px;
+}
+
+.row-3-column2{
+    width:80%;
+    position: absolute;
+    top: 4px;
+    left: 78px;
+    
+  
+  
+   
+}
+.row-3-column3{
+    width:20%;
+    font-size:xx-small;
+    position: absolute;
+    top: 4px;
+    left:540px;
+  
+    
+  
+   
+   
+}
+.row-3-cols{
+    background-color: black;
+    border-radius:4px;
+    border:2px solid black;
+   
+
+   
+   
+    
+
+}
+.tab-style{
+
+    padding:25px 43px 1px 1px;
+    
+}
+.row3-letters-style{
+    padding:13px 15px;
+}
+.row-3-symbols{
+    padding:7px 15px;
+}
+.uuu{
+    display: inline-block;
+
+
+}
+.cols{
+    background-color: black;
+    display: inline-block;
+    border-radius: 3px;
+    border:2px solid black;
+   
+    
+
+}
+
+.f-keyboards-tyle{
+    margin: 0 auto;
+    padding: 5px 12px;
+    text-align: center;
+   
+
+}
+.esc-keyboard-style{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+.blackboard-style{
+    width: 10px;
+    padding: 8px;
+    height: 8px;
+    margin-top: px;
+    margin-left: 4px;
+    position: absolute;
+
+}
+.font-style{
+    color:white;
+    font: 12px Arial, sans-serif;
+    
+}
+.row-4{
+    width:100%;
+    height: 20px;
+    margin-top:12px;
+    position: relative;
+}
+
+.row-4-column1{
+    width:10%;
+
+}
+.row-4-column2{
+    width:65%;
+    position: absolute;
+    left:75px;
+    top:-1px;
+}
+.row-4-column3{
+    width:5%;
+    position: absolute;
+    right:116px;
+    top:-2px;
+  
+}
+.row-4-column4{
+    width:5%;
+    position: absolute;
+    right:75px;
+    top:-1px;
+}
+.row-4-column5{
+    width:12%;
+    position: absolute;
+    right:-8px;
+    top:-1px;
+    
+   
+}
+.row-4-cols{
+    background-color: black;
+    border-radius:4px;
+    border:2px solid black; 
+
+}
+.capslock-style{
+     padding: 24px 20px 0 0;
+     position: absolute;
+     left:-5px;
+     top:-1px;
+
+}
+.row4-letters-style{
+    padding:13px 15px;
+}
+.Punctuation{
+    padding:7px 10px;
+}
+.row-4-symbols{
+    padding:7px 15px;
+}
+.return-keyboard{
+    padding: 27px 25px 0 0;
+   
+}
