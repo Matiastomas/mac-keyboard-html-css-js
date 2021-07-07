@@ -1,16 +1,17 @@
 body{
-    width:100;
+    width:100%;
   margin: 30px 30px;
 }
 .main-section{
     border-radius: 15px;
     border: 1px solid silver;
     height: 500px;
-    width:780px;
+    width:700px;
     background-color:#f9f9f9;
     padding-top:25px;
     padding-bottom:10px;
-    padding-left:15px;
+    padding-left:10px;
+    padding-right:10px;
     margin: 0 auto;
 
     
@@ -32,7 +33,7 @@ body{
     height: 170px;
     width:33%;
     background-color:#f9f9f9;
-    margin: 200px auto 0;
+    margin: 140px auto 0;
   
 }
 .row-1 {
@@ -231,9 +232,77 @@ body{
     padding: 27px 25px 0 0;
    
 }
-.row-6-key-style{
+.row-5{
+    width:100%;
+    height: 20px;
+    margin-top:12px;
+    position: relative;
+}
+.row-5-num1{
+    width:8%;
+
+}
+.shift-button1{
+    width:10%;
+    position: absolute;
+    left:-5px;
+    padding: 24px 20px 0 0;
+    top:14px;
+    background-color: black;
+}
+.row-5-num2{
+    width:60%;
+    left:86px;
+    top:14px;
+    position:absolute;
+}
+.row-5-num3{
+    width:3%;
+    background-color: black;
+    right:187px;
+    top:14px;
+    position:absolute;
+    text-align: center;
+
+  
+}
+.row-5-num4{
+    width:3%;
+    background-color: black;
+    right:140px;
+    top:14px;
+    position:absolute;
+    text-align: center;
+}
+.row-5-num5{
+    width:3%;
+    background-color: black;
+    right:95px;
+    top:14px;
+    position:absolute;
+}
+.row-5-num6{
+    width:3%;
+    
+}
+.shift-button2{
+    background-color: black;
+    left:550px;
+    top:15px;
+    position:absolute;
+     padding: 24px 29px 0 0;
+     width: 10%;
+}
+.row-5-key-style{
     background-color: black;
     border-radius:4px;
     border:2px solid black;
    
+}
+.row5-letters-style{
+    padding:13px 15px;
+    text-align: center;
+}
+.row-5-symbols-size{
+    padding:6px 10px;
 }
