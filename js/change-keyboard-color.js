@@ -21,6 +21,6 @@ document.getElementById('gold').onclick = function () {
     setKeyboardColorToGold();
 }
 //Execute the function setKeyboardColorSilver once the user click on the silver (radio) option
-document.getElementById('gold').onclick = function () {
+document.getElementById('silver').onclick = function () {
     setKeyboardColorToSilver();
 }
