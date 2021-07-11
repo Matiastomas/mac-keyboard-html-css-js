@@ -4,7 +4,10 @@ The following function change the
  click on the Gold (radio) option
 */
 function setKeyboardColorToGold(){
-  document.getElementsByClassName('grid-for-keys').style.backgroundColor ="#edd290";
+  document.getElementById("main").style.backgroundColor ="black";
+  document.getElementById("grid-for-keys").style.backgroundColor ="black";
+  document.getElementById("grid-for-keys").style.borderColor ="black";
+  document.getElementById("keyboard-pad").style.backgroundColor ="black";
 
 }
 /*
@@ -14,13 +17,21 @@ The following function change the
  is the default color
  */
 function setKeyboardColorToSilver(){
-  document.getElementsByClassName('grid-for-keys').style.backgroundColor ="#c0c0c0";
+  document.getElementById("main").style.backgroundColor ="#c0c0c0";
+  document.getElementById("grid-for-keys").style.backgroundColor ="#c0c0c0";
+  document.getElementById("grid-for-keys").style.borderColor ="#c0c0c0";
+  document.getElementById("keyboard-pad").style.backgroundColor ="#c0c0c0";
+
 }
+/*
+  //Execute the function setKeyboardColorSilver once the user click on the silver (radio) option
+      document.getElementById("silver").onclick = function () {
+          setKeyboardColorToSilver();
+      } 
+  
 //Execute the function setKeyboardColorToGold once the user click on the gold (radio) option
-document.getElementById('gold').onclick = function () {
-    setKeyboardColorToGold();
-}
-//Execute the function setKeyboardColorSilver once the user click on the silver (radio) option
-document.getElementById('silver').onclick = function () {
-    setKeyboardColorToSilver();
-}
+
+    document.getElementById("gold").onclick = function () {
+      setKeyboardColorToGold();
+  }
+  */

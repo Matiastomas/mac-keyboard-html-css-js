@@ -2,21 +2,22 @@
 <head>
     <title>MACOS KeyBoard Challenge</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/change-keyboard-color.js"></script>
 </head>
 <body>
     <header> 
         <h1>Mac OS Keyboards</h1>
         <h2>Click at the options below to change the keyboard color</h2>
       <form>
-        <input type="radio" id="gold" name="gender" value="male"> Gold </br>
-        <input type="radio" id="silver" name="gender" value="female"> Silver
+        <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="gender" value="male"> Gold </br>
+        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" name="gender" value="female"> Silver
       </form>
        
             
     </header>
-    <section class="main-section">
+    <section class="main-section" id="main">
         
-           <div class="grid-for-keys">
+           <div class="grid-for-keys" id="grid-for-keys">
                <div class="keyboard-container">
                 <div class ="row-1 row-dimension">
                     <div class="col-1 cols font-style esc-keyboard-style">Esc</div>
@@ -217,7 +218,7 @@
            
 
           </div>
-            <div class="keyboard-pad">
+            <div class="keyboard-pad" id="keyboard-pad">
             </div>    
     </section>
 </body>
