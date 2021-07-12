@@ -306,3 +306,123 @@ body{
 .row-5-symbols-size{
     padding:6px 10px;
 }
+
+.row-6{
+    width: 100%;
+    position: relative;
+    height: 20px;
+    margin-top: 20px;
+}
+.row-6-col-num2{
+    width: 3%;
+}
+.fn-buton{
+    background-color: black;
+    left:0px;
+    top:20px;
+    position:absolute;
+    padding:30px 30px 0px 0px;
+
+}
+.row-6-col-num2{
+    width:6%;
+    background-color: black;
+    left:46px;
+    top:20px;
+    position: absolute;
+    padding-bottom:0px;
+    text-align: right;
+    height: 44px;
+
+}
+.row-6-col-num3{
+    width:6%;
+    background-color: black;
+    left:96px;
+    top:20px;
+    position: absolute;
+    padding-bottom:0px;
+    text-align: right;
+    height: 44px;
+}
+.row-6-col-num4{
+    width:6%;
+    background-color: black;
+    left:146px;
+    top:20px;
+    position: absolute;
+    padding:0px 0 0px 10px;
+    text-align: right;
+    height: 44px;
+}
+.row-6-col-num5{
+    width: 30%;
+    background-color: black;
+    left:202px;
+    top:20px;
+    position: absolute;
+    text-align: right;
+    height: 45px;
+
+}
+.row-6-col-num6 {
+    width:6%;
+    background-color: black;
+    left:400px;
+    top:20px;
+    position: absolute;
+    padding:0px 0 0px 10px;
+    text-align: right;
+    height: 44px;
+}
+.row-6-col-num7 {
+    width:6%;
+    background-color: black;
+    left:460px;
+    top:20px;
+    position: absolute;
+    padding-bottom:0px;
+    text-align: right;
+    height: 44px;
+}
+.row-6-col-num8{
+    width:3%;
+    background-color: black;
+    left:508px;
+    top:20px;
+    position: absolute;
+    padding:10px;
+    height: 25px;
+   
+}
+.row-6-col-num9{
+    width:3%;
+    left:550px;
+    top:20px;
+    position: absolute;
+    padding:10px;
+    height: 15px;
+
+}
+.top-arrow{
+    margin-bottom:3px;
+    background-color: black;
+    margin-top: -10px;
+    margin-left: -5px;
+    padding: 2px 20px;
+}
+.bottom-arrow{
+    background-color: black;
+    padding: 2px 20px;
+    margin-left: -5px;
+
+}
+.row-6-col-num10{
+    width:3%;
+    background-color: black;
+    left:603px;
+    top:20px;
+    position: absolute;
+    padding:10px;
+    height: 25px;
+}
