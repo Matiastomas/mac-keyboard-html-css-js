@@ -4,10 +4,10 @@ The following function change the
  click on the Gold (radio) option
 */
 function setKeyboardColorToGold(){
-  document.getElementById("main").style.backgroundColor ="black";
-  document.getElementById("grid-for-keys").style.backgroundColor ="black";
-  document.getElementById("grid-for-keys").style.borderColor ="black";
-  document.getElementById("keyboard-pad").style.backgroundColor ="black";
+  document.getElementById("main").style.backgroundColor ="#f0dba6";
+  document.getElementById("grid-for-keys").style.backgroundColor ="#f0dba6";
+  document.getElementById("grid-for-keys").style.borderColor ="#f0dba6";
+  document.getElementById("keyboard-pad").style.backgroundColor ="#f0dba6";
 
 }
 /*
@@ -17,10 +17,10 @@ The following function change the
  is the default color
  */
 function setKeyboardColorToSilver(){
-  document.getElementById("main").style.backgroundColor ="#c0c0c0";
-  document.getElementById("grid-for-keys").style.backgroundColor ="#c0c0c0";
-  document.getElementById("grid-for-keys").style.borderColor ="#c0c0c0";
-  document.getElementById("keyboard-pad").style.backgroundColor ="#c0c0c0";
+  document.getElementById("main").style.backgroundColor ="#b5b7bb";
+  document.getElementById("grid-for-keys").style.backgroundColor ="#b5b7bb";
+  document.getElementById("grid-for-keys").style.borderColor ="#b5b7bb";
+  document.getElementById("keyboard-pad").style.backgroundColor ="#b5b7bb";
 
 }
 /*
@@ -30,10 +30,10 @@ The following function change the
  is the default color
  */
  function setKeyboardColorToSpaceGrey(){
-  document.getElementById("main").style.backgroundColor ="#f9f9f9";
-  document.getElementById("grid-for-keys").style.backgroundColor="#f9f9f9";
-  document.getElementById("grid-for-keys").style.borderColor ="#f9f9f9";
-  document.getElementById("keyboard-pad").style.backgroundColor ="#f9f9f9";
+  document.getElementById("main").style.backgroundColor ="#757575";
+  document.getElementById("grid-for-keys").style.backgroundColor="#757575";
+  document.getElementById("grid-for-keys").style.borderColor ="#757575";
+  document.getElementById("keyboard-pad").style.backgroundColor ="#757575";
 }
 /*
   //Execute the function setKeyboardColorSilver once the user click on the silver (radio) option
