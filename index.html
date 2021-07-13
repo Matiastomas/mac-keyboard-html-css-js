@@ -5,16 +5,16 @@
     <script src="js/change-keyboard-color.js"></script>
 </head>
 <body>
-    <header> 
-        <h1>Macbook Keyboards</h1>
-      <form>
-        <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="gender" value="male"> Gold </br>
-        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" name="gender" value="female"> Silver </br>
-        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()" name="gender" value="female"> Space Grey
-      </form>
-       
-            
+    <header class="header font-style"> 
+        <h1>Macbook Keyboard</h1> 
     </header>
+    <nav class="nav">
+      <form>
+        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()" name="gender" value="female"> Space Grey
+        <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="gender" value="male"> Gold 
+        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" name="gender" value="female"> Silver </br>
+      </form>
+    </nav>
     <section class="main-section" id="main">
         
            <div class="grid-for-keys" id="grid-for-keys">
