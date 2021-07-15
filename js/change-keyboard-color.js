@@ -8,6 +8,7 @@ function setKeyboardColorToGold(){
   document.getElementById("grid-for-keys").style.backgroundColor ="#f0dba6";
   document.getElementById("grid-for-keys").style.borderColor ="#f0dba6";
   document.getElementById("keyboard-pad").style.backgroundColor ="#f0dba6";
+  document.getElementById("grid-for-keys").style.boxShadow =" inset 0 0 0 10px #deae36;"
 
 }
 /*
