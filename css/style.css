@@ -41,9 +41,7 @@ form input{
     background-color:#f9f9f9;
     margin:0 auto;
     padding: 10px;
-    -moz-box-shadow:    inset 0 0 10px #d8d8d8;
-   -webkit-box-shadow: inset 0 0 10px #d8d8d8;
-   box-shadow:         inset 0 0 10px #d8d8d8;
+   box-shadow:inset 0 0 10px #d8d8d8;
 }
 .keyboard-pad{
     border-radius: 15px;
