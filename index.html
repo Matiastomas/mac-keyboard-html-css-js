@@ -4,15 +4,15 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="js/change-keyboard-color.js"></script>
 </head>
-<body>
+<body onload="setKeyboardColorToSilver()">
     <header class="header font-style"> 
         <h1>Macbook Keyboard</h1> 
     </header>
     <nav class="nav">
       <form>
-        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()" checked="checked" name="radio-1"> Space Grey
+        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()"  name="radio-1"> Space Grey
         <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="radio-2" > Gold 
-        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" name="radio-3"> Silver </br>
+        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" checked="checked" name="radio-3"> Silver </br>
       </form>
     </nav>
     <section class="main-section" id="main">
@@ -197,7 +197,7 @@
 
              </div>
              <div class="row-6-col-num2 row-4-cols font-style uuu">
-               <div>
+               <div class="margin-between-symbols">  
                 &#8963;
                </div>
                <div class="font-style">
@@ -206,7 +206,7 @@
 
             </div>
             <div class="row-6-col-num3 row-4-cols font-style uuu">
-              <div>
+              <div class="margin-between-symbols">
                 &#8997;
               </div>
               <div>
@@ -215,7 +215,7 @@
 
             </div>
             <div class="row-6-col-num4 row-4-cols font-style uuu">
-              <div>
+              <div class="margin-between-symbols">
                 &#8984;
               </div>
               <div>
@@ -226,7 +226,7 @@
                 <div class="space-bar"></div>
             </div>
             <div class="row-6-col-num6 row-4-cols font-style uuu">
-              <div>
+              <div  class="margin-between-symbols">
                 &#8984;
               </div>
               <div>
@@ -234,7 +234,7 @@
               </div>
             </div>
             <div class="row-6-col-num7 row-4-cols font-style uuu">
-              <div>
+              <div  class="margin-between-symbols">
                 &#8997;
               </div>
               <div>

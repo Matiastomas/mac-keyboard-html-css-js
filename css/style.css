@@ -35,13 +35,10 @@ form input{
 .grid-for-keys{
    
     border-radius: 10px;
-    border:4px solid #d8d8d8;
     height: 260px;
     width:640px;
-    background-color:#f9f9f9;
     margin:0 auto;
     padding: 10px;
-   box-shadow:inset 0 0 10px #d8d8d8;
 }
 .keyboard-pad{
     border-radius: 15px;
@@ -334,7 +331,7 @@ form input{
 }
 .fn-buton{
     background-color: black;
-    left:0px;
+    left:-4px;
     top:20px;
     position:absolute;
     padding:30px 30px 0px 0px;
@@ -441,4 +438,7 @@ form input{
     position: absolute;
     padding:10px;
     height: 25px;
+}
+.margin-between-symbols{
+    margin-bottom:13px;
 }

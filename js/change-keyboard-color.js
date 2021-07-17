@@ -18,10 +18,10 @@ The following function change the
  is the default color
  */
 function setKeyboardColorToSilver(){
-  document.getElementById("main").style.backgroundColor ="#b5b7bb";
-  document.getElementById("grid-for-keys").style.backgroundColor ="#b5b7bb";
-  document.getElementById("grid-for-keys").style.borderColor ="#b5b7bb";
-  document.getElementById("keyboard-pad").style.backgroundColor ="#b5b7bb";
+  document.getElementById("main").style.backgroundColor ="#f9f9f9";
+  document.getElementById("grid-for-keys").style.backgroundColor ="#f9f9f9";
+  document.getElementById("grid-for-keys").style.borderColor ="#f9f9f9";
+  document.getElementById("keyboard-pad").style.backgroundColor ="#f9f9f9";
   document.getElementById("grid-for-keys").style.boxShadow ="inset 0 0 10px #d8d8d8";
 
 }
