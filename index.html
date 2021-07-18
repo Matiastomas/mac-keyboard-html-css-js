@@ -10,9 +10,12 @@
     </header>
     <nav class="nav">
       <form>
-        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()"  name="radio-1"> Space Grey
-        <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="radio-2" > Gold 
-        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" checked="checked" name="radio-3"> Silver </br>
+        <input type="radio" id="silver" onclick="setKeyboardColorToSpaceGrey()" name="keyboard-backgroundColor" value="radio-1"> 
+        <label for="Space Grey">Space Grey</label>
+        <input type="radio" id="gold" onclick="setKeyboardColorToGold()" name="keyboard-backgroundColor" value="radio-2" > Gold 
+        <label for="Gold"Gold></label>
+        <input type="radio" id="silver" onclick="setKeyboardColorToSilver()" name="keyboard-backgroundColor" checked="checked" value="radio-3">
+        <label for="Silver">Silver</label>
       </form>
     </nav>
     <section class="main-section" id="main">
