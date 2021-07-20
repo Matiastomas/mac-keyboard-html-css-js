@@ -340,10 +340,10 @@ form input{
 .row-6-col-num2{
     width:6%;
     background-color: black;
-    left:46px;
+    left:43px;
     top:20px;
     position: absolute;
-    padding-bottom:0px;
+    padding:0px 3px 0px 0px;
     text-align: right;
     height: 44px;
 
@@ -351,7 +351,7 @@ form input{
 .row-6-col-num3{
     width:6%;
     background-color: black;
-    left:96px;
+    left:91px;
     top:20px;
     position: absolute;
     padding-bottom:0px;
@@ -359,19 +359,19 @@ form input{
     height: 44px;
 }
 .row-6-col-num4{
-    width:6%;
+    width:8%;
     background-color: black;
-    left:146px;
+    left:136px;
     top:20px;
     position: absolute;
-    padding:0px 0 0px 10px;
+    padding:0px 3px 0px 10px;
     text-align: right;
     height: 44px;
 }
 .row-6-col-num5{
-    width: 30%;
+    width: 31%;
     background-color: black;
-    left:202px;
+    left:207px;
     top:20px;
     position: absolute;
     text-align: right;
@@ -379,19 +379,19 @@ form input{
 
 }
 .row-6-col-num6 {
-    width:6%;
+    width:8%;
     background-color: black;
-    left:400px;
+    left:412px;
     top:20px;
     position: absolute;
-    padding:0px 0 0px 10px;
+    padding:0px 3px 0px 10px;
     text-align: right;
     height: 44px;
 }
 .row-6-col-num7 {
     width:6%;
     background-color: black;
-    left:460px;
+    left:484px;
     top:20px;
     position: absolute;
     padding-bottom:0px;
@@ -399,18 +399,18 @@ form input{
     height: 44px;
 }
 .row-6-col-num8{
-    width:3%;
+    width:2%;
     background-color: black;
-    left:508px;
+    left:530px;
     top:20px;
     position: absolute;
-    padding:10px;
-    height: 25px;
+    padding:8px;
+    height: 28px;
    
 }
 .row-6-col-num9{
-    width:3%;
-    left:550px;
+    width:2%;
+    left:561px;
     top:20px;
     position: absolute;
     padding:10px;
@@ -431,13 +431,13 @@ form input{
 
 }
 .row-6-col-num10{
-    width:3%;
+    width:2%;
     background-color: black;
-    left:603px;
+    left:613px;
     top:20px;
     position: absolute;
-    padding:10px;
-    height: 25px;
+    padding:8px;
+    height: 27px;
 }
 .margin-between-symbols{
     margin-bottom:13px;
