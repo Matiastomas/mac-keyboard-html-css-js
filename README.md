@@ -15,8 +15,6 @@ a macbook keyboard using flutter, and he has suggested me to do a web version of
  </br>https://github.com/e200/my-flutter-challenges </br>
  https://www.youtube.com/watch?v=y4pM5knvAxM
  
-![user-interface-screenshot](https://github.com/Matiastomas/mac-keyboard-html-css-js/blob/main/img/ch.PNG) 
- 
 
 **Built with**
   ```
