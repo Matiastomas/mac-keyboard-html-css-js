@@ -4,7 +4,7 @@
 ```
 This codebase is the result of a "challenge"/(suggestion) proposed to me by Eleandro Duzentos on linkedin. Eleandro Duzentos created
 a macbook keyboard using flutter, and he has suggested me to do a web version of what he did. 
-
+```
 ## **Final result**
 ![user-interface-screenshot](https://github.com/Matiastomas/mac-keyboard-html-css-js/blob/main/img/final-iu.PNG)
 
