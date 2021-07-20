@@ -11,7 +11,7 @@ This is a makeBook keyboard(non-functional) I have create using html, css, and j
   ```
     -HTML5/CSS3/JS
 ```
-### **To know about Eleandro and his projects checkout the links below**
+### **To know more about Eleandro and his projects checkout the links below**
  </br>https://github.com/e200/my-flutter-challenges </br>
  https://www.youtube.com/watch?v=y4pM5knvAxM
  
