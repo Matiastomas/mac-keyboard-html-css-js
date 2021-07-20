@@ -42,7 +42,7 @@ form input{
 }
 .keyboard-pad{
     border-radius: 15px;
-    border: 3px solid silver;
+    border:2px solid;
     height: 170px;
     width:33%;
     background-color:#f9f9f9;

@@ -38,8 +38,8 @@ The following function change the
   document.getElementById("grid-for-keys").style.backgroundColor="#757575";
   document.getElementById("grid-for-keys").style.borderColor ="#757575";
   document.getElementById("keyboard-pad").style.backgroundColor ="#757575";
-  document.getElementById("keyboard-pad").style.borderColor="#d8d8d8";
-  document.getElementById("grid-for-keys").style.boxShadow ="inset 0 0 10px #d8d8d8";
+  document.getElementById("keyboard-pad").style.borderColor="#676767";
+  document.getElementById("grid-for-keys").style.boxShadow ="inset 0 0 10px #676767";
 }
 /*
   //Execute the function setKeyboardColorSilver once the user click on the silver (radio) option
