@@ -12,8 +12,8 @@ a macbook keyboard using flutter, and suggested me to do a web version of what h
  https://www.youtube.com/watch?v=y4pM5knvAxM
  
 ![user-interface-screenshot](https://github.com/Matiastomas/mac-keyboard-html-css-js/blob/main/img/ch.PNG) 
-
-## **Tech used**  
+ 
 
 **Built with**
+  ```
     -HTML5/CSS3/JS
